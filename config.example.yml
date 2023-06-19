@@ -1,0 +1,9 @@
+IA:
+  url: "https://b--url.bfg-soft.ru"
+  ws_url: "https://e--url.bfg-soft.ru"
+  login: "login"
+  password: "password"
+
+scripts:
+  - 'bash distrib.sh'
+  - 'bash distrib.sh'
